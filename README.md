@@ -75,11 +75,3 @@ flutter pub get
 flutter run
 ```
 
----
-
-## 📜 **License**  
-This project is open-source under the **MIT License**.
-
----
-
-This **beautiful and clean `README.md`** is **ready for your GitHub repository!** 🚀
