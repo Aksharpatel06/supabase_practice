@@ -3,7 +3,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 
 class PostDetailsScreen extends StatefulWidget {
   final String postId;
-  PostDetailsScreen({required this.postId});
+  const PostDetailsScreen({super.key, required this.postId});
 
   @override
   _PostDetailsScreenState createState() => _PostDetailsScreenState();
