@@ -1,9 +1,6 @@
 # 🚀 **Flutter + Supabase App**  
-
 A beautiful **Flutter app** powered by **Supabase** for authentication and database management. Users can **sign up, log in, create posts, and add comments** seamlessly.
-
 ---
-
 ## 📌 **Features**  
 ✨ **User Authentication** (Sign up, Login, Logout)  
 📝 **Create & View Posts** (Linked to users)  
